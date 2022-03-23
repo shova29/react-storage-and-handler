@@ -1,0 +1,11 @@
+.product {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1.5rem;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  margin: 20px;
+  padding: 20px;
+  /* background-color: lavender; */
+}
